@@ -1,14 +1,4 @@
-It seems like I can’t do more advanced data analysis right now. Please try again later.
 
-However, you can still create the `README.md` file manually. Here's how:
-
-1. Open any text editor (e.g., VS Code, Notepad, Sublime).
-2. Copy the content below into a new file.
-3. Save the file as `README.md`.
-
----
-
-### 📄 Content to Paste:
 
 ````markdown
 # NYC Crash Insights – Interactive Website
